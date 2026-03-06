@@ -1,4 +1,4 @@
-package com.candlez;
+package com.candlez.nospring;
 
 /**
  * Hello world!
